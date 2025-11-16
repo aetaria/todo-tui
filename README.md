@@ -30,7 +30,7 @@ A lightweight, terminal-based todo list application built with Rust. Manage your
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rust-tui-todo.git
+git clone https://github.com/aetaria/rust-tui-todo.git
 cd rust-tui-todo
 ```
 
