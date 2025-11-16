@@ -5,6 +5,11 @@ A lightweight, terminal-based todo list application built with Rust. Manage your
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## 📸 Images 
+![Image of basic menu at startup](./test_images/basic_menu.png)
+![Image of adding a new todo to the list](./test_images/new_todo.png)
+
+
 ## ✨ Features
 
 - 🎯 **Simple & Fast**: Lightweight terminal interface with instant startup
